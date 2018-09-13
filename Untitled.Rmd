@@ -2,7 +2,9 @@
 title: "sample1"
 author: "Annie Yu"
 date: "2018/9/13"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
